@@ -47,7 +47,7 @@ I’m an **AI-focused intern** with a passion for applying cutting-edge technolo
 ---
 
 ### **Data Science Intern**  
-**Ioncure Pvt Ltd** (Remote, Delhi) - *June 2024 – Present*  
+**Ioncure Pvt Ltd** (Remote, Delhi) - *June 2024 – August 2024*  
 - Built optimized **web scraping tools** with 95% data accuracy.
 - Automated data extraction workflows, reducing retrieval time by 30%.
 - Spearheaded **mass email campaigns**, increasing engagement by 60%.
